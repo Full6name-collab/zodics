@@ -193,7 +193,7 @@ function work(){
         Spirit Color: Violet</br>
         Lucky Gem: Ruby, pearl</br>
         Flower: Orchid and white rose</br>
-        Top Love Matches: <a href="Taurus.html"><strong> Taurus </strong></a> & <a href="Pisces.html"><strong> Pisces </strong></a>`
+        Top Love Matches: <a href="Tuarus.html"><strong> Tuarus </strong></a> & <a href="Pisces.html"><strong> Pisces </strong></a>`
         writ.innerHTML =`<h4>Cancer Zodiac Sign:</h4> 
         Emotional, intuitive, and practically psychic; 
         ruled by the moon and characterized by the crab, Cancer has so much going on in its watery depths. 
